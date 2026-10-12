@@ -1,0 +1,7 @@
+customer_id,name,email,city
+001, Alice Smith ,alice@example.com, London
+002,Bob Jones,bob@example.com,Berlin
+003,ALICE SMITH,ALICE@example.com,London
+004,Charlie Brown,,Warsaw
+,,,
+005,Dana Lee,dana@example.com,Gdansk

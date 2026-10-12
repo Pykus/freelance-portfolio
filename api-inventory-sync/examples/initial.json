@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "sku": "SKU-100",
+      "price_cents": 1250,
+      "quantity": 5
+    },
+    {
+      "sku": "SKU-200",
+      "price_cents": 600,
+      "quantity": 3
+    },
+    {
+      "sku": "SKU-OLD",
+      "price_cents": 9900,
+      "quantity": 1
+    }
+  ]
+}

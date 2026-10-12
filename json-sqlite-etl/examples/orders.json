@@ -1,0 +1,53 @@
+{
+  "orders": [
+    {
+      "order_id": "O-101",
+      "customer": " Alpha LLC ",
+      "amount_usd": "125.50",
+      "status": "paid",
+      "order_date": "2026-09-01"
+    },
+    {
+      "order_id": "O-102",
+      "customer": "Beta Ltd",
+      "amount_usd": "80.00",
+      "status": "pending",
+      "order_date": "2026-09-02"
+    },
+    {
+      "order_id": "O-103",
+      "customer": "Alpha LLC",
+      "amount_usd": "40.00",
+      "status": "paid",
+      "order_date": "2026-09-03"
+    },
+    {
+      "order_id": "O-104",
+      "customer": "Gamma Co",
+      "amount_usd": "-5.00",
+      "status": "paid",
+      "order_date": "2026-09-04"
+    },
+    {
+      "order_id": "O-105",
+      "customer": "Beta Ltd",
+      "amount_usd": "oops",
+      "status": "paid",
+      "order_date": "2026-09-05"
+    },
+    {
+      "order_id": "O-106",
+      "customer": "Beta Ltd",
+      "amount_usd": "50.25",
+      "status": "paid",
+      "order_date": "2026-09-06"
+    },
+    {
+      "order_id": "O-101",
+      "customer": "Alpha LLC",
+      "amount_usd": "125.50",
+      "status": "paid",
+      "order_date": "2026-09-01"
+    }
+  ]
+}

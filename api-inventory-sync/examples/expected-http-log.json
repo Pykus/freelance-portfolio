@@ -1,0 +1,27 @@
+[
+  {
+    "method": "GET",
+    "path": "/items",
+    "status": 200
+  },
+  {
+    "method": "POST",
+    "path": "/items",
+    "status": 201
+  },
+  {
+    "method": "PUT",
+    "path": "/items/SKU-200",
+    "status": 200
+  },
+  {
+    "method": "DELETE",
+    "path": "/items/SKU-OLD",
+    "status": 204
+  },
+  {
+    "method": "GET",
+    "path": "/items",
+    "status": 200
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "input_rows": 7,
+  "accepted_rows": 4,
+  "rejected_rows": 3,
+  "database_rows": 4,
+  "paid_orders": 3,
+  "pending_orders": 1,
+  "paid_total_usd": "215.75",
+  "paid_by_customer": [
+    {
+      "customer": "Alpha LLC",
+      "orders": 2,
+      "total_usd": "165.50"
+    },
+    {
+      "customer": "Beta Ltd",
+      "orders": 1,
+      "total_usd": "50.25"
+    }
+  ],
+  "stored_orders": [
+    {
+      "order_id": "O-101",
+      "customer": "Alpha LLC",
+      "amount_usd": "125.50",
+      "status": "paid",
+      "order_date": "2026-09-01"
+    },
+    {
+      "order_id": "O-102",
+      "customer": "Beta Ltd",
+      "amount_usd": "80.00",
+      "status": "pending",
+      "order_date": "2026-09-02"
+    },
+    {
+      "order_id": "O-103",
+      "customer": "Alpha LLC",
+      "amount_usd": "40.00",
+      "status": "paid",
+      "order_date": "2026-09-03"
+    },
+    {
+      "order_id": "O-106",
+      "customer": "Beta Ltd",
+      "amount_usd": "50.25",
+      "status": "paid",
+      "order_date": "2026-09-06"
+    }
+  ],
+  "rejections": [
+    {
+      "row": 4,
+      "order_id": "O-104",
+      "reason": "amount_usd must be greater than zero and at most 1000000"
+    },
+    {
+      "row": 5,
+      "order_id": "O-105",
+      "reason": "invalid amount_usd"
+    },
+    {
+      "row": 7,
+      "order_id": "O-101",
+      "reason": "duplicate order_id in this import"
+    }
+  ]
+}

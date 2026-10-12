@@ -1,0 +1,40 @@
+{
+  "source_items": 3,
+  "initial_items": 3,
+  "created": [
+    "SKU-300"
+  ],
+  "updated": [
+    "SKU-200"
+  ],
+  "deleted": [
+    "SKU-OLD"
+  ],
+  "unchanged": [
+    "SKU-100"
+  ],
+  "final_items": [
+    {
+      "sku": "SKU-100",
+      "price_cents": 1250,
+      "quantity": 5
+    },
+    {
+      "sku": "SKU-200",
+      "price_cents": 600,
+      "quantity": 8
+    },
+    {
+      "sku": "SKU-300",
+      "price_cents": 450,
+      "quantity": 2
+    }
+  ],
+  "http_calls": 5,
+  "http_methods": {
+    "GET": 2,
+    "POST": 1,
+    "PUT": 1,
+    "DELETE": 1
+  }
+}
