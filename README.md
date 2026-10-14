@@ -14,4 +14,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | [CSV Schema Validator](csv-schema-validator/) | Validate CSV exports against a JSON schema and report row-level errors | Python standard library |
 
+| [JSON Configuration Diff](json-config-diff/) | Compare nested JSON snapshots and report additions, removals and changes | Python standard library |
+
 Each project includes setup instructions, sample inputs, test commands and limitations.
