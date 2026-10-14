@@ -12,4 +12,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 | [HTML Catalog Change Tracker](web-snapshot-diff/) | Parse fictional HTML snapshots, preserve SQLite history and report additions, updates and removals with 16 tests | Python standard library, SQLite |
 | [CSV Export Reconciliation](csv-reconciliation/) | Compare two CSV exports by stable ID and report added, removed and changed records | Python standard library |
 
+| [CSV Schema Validator](csv-schema-validator/) | Validate CSV exports against a JSON schema and report row-level errors | Python standard library |
+
 Each project includes setup instructions, sample inputs, test commands and limitations.
