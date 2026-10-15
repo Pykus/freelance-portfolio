@@ -1,0 +1,11 @@
+Message-ID: <sample-101@example.test>
+From: Synthetic Orders <orders@example.test>
+To: warehouse@example.test
+Subject: Order received
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Order-ID: SO-4101
+Customer: Fictional Office Supply
+Item: NOTEBOOK-A5, 2, 6.75
+Item: PEN-BLACK, 4, 1.20

@@ -18,4 +18,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | [Image Asset Quality Audit](image-asset-audit/) | Detect corrupted images, undersized files and exact duplicates, exporting CSV/JSON reports with tests | Python, Pillow |
 
+| [Offline Email Order Intake](email-order-intake/) | Parse and validate fictional order emails with SQLite deduplication, exact monetary totals and CSV audit reports | Python standard library, SQLite |
+
 Each project includes setup instructions, sample inputs, test commands and limitations.
