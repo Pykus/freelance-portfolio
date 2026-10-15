@@ -16,4 +16,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | [JSON Configuration Diff](json-config-diff/) | Compare nested JSON snapshots and report additions, removals and changes | Python standard library |
 
+| [Image Asset Quality Audit](image-asset-audit/) | Detect corrupted images, undersized files and exact duplicates, exporting CSV/JSON reports with tests | Python, Pillow |
+
 Each project includes setup instructions, sample inputs, test commands and limitations.
