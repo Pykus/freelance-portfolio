@@ -1,0 +1,55 @@
+[
+  {
+    "invoice_id": "INV-100",
+    "po_id": "PO-100",
+    "supplier": "Fictional Components Ltd",
+    "currency": "USD",
+    "items": [
+      {
+        "sku": "RES-10K",
+        "quantity": 2,
+        "unit_price": "12.50"
+      },
+      {
+        "sku": "CAP-1UF",
+        "quantity": 1,
+        "unit_price": "3.00"
+      }
+    ],
+    "claimed_subtotal": "28.00",
+    "tax": "2.24",
+    "claimed_total": "30.24"
+  },
+  {
+    "invoice_id": "INV-101",
+    "po_id": "PO-100",
+    "supplier": "Fictional Components Ltd",
+    "currency": "USD",
+    "items": [
+      {
+        "sku": "RES-10K",
+        "quantity": 5,
+        "unit_price": "12.50"
+      }
+    ],
+    "claimed_subtotal": "60.00",
+    "tax": "0.00",
+    "claimed_total": "60.00"
+  },
+  {
+    "invoice_id": "INV-102",
+    "po_id": "PO-100",
+    "supplier": "Different Fictional Supplier",
+    "currency": "USD",
+    "items": [
+      {
+        "sku": "RES-10K",
+        "quantity": 1,
+        "unit_price": "12.50"
+      }
+    ],
+    "claimed_subtotal": "12.50",
+    "tax": "1.00",
+    "claimed_total": "13.50"
+  }
+]

@@ -21,5 +21,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 | [Offline Email Order Intake](email-order-intake/) | Parse and validate fictional order emails with SQLite deduplication, exact monetary totals and CSV audit reports | Python standard library, SQLite |
 
 | [Offline Website Search Batch](footprint-search-batch/) | Plan local search terms, normalize and deduplicate fictional website results, and export reports with 15 tests | Python standard library |
+| [Invoice to Purchase Order Audit](invoice-po-match/) | Match synthetic invoices to purchase orders, flag discrepancies, and export review reports with regression tests | Python standard library |
 
 Each project includes setup instructions, sample inputs, test commands and limitations.

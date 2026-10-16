@@ -1,0 +1,19 @@
+[
+  {
+    "po_id": "PO-100",
+    "supplier": "Fictional Components Ltd",
+    "currency": "USD",
+    "items": [
+      {
+        "sku": "RES-10K",
+        "quantity": 4,
+        "unit_price": "12.50"
+      },
+      {
+        "sku": "CAP-1UF",
+        "quantity": 3,
+        "unit_price": "3.00"
+      }
+    ]
+  }
+]
