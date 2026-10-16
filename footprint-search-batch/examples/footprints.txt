@@ -1,2 +1,3 @@
-# Invented search signature
-Built by DemoWeb
+# Invented names; these are pretend website footer/source-code markers.
+Website by Northstar Web Studio
+Powered by Northstar Site Engine

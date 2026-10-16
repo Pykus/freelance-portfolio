@@ -1,0 +1,4 @@
+domain,example_url,title,matched_footprints,matched_towns,matched_terms,search_queries,hit_count
+cobalt-dental.example,https://cobalt-dental.example/contact,Cobalt Dental,Powered by Northstar Site Engine,Shrewsbury,SY2,"depth:all site:uk ""Powered by Northstar Site Engine"" ""SY2""",1
+flower-shop.example,https://flower-shop.example/offers,Town Centre Florist,Website by Northstar Web Studio,Shrewsbury,SY1 | Shrewsbury,"depth:all site:uk ""Website by Northstar Web Studio"" ""SY1"" | depth:all site:uk ""Website by Northstar Web Studio"" ""Shrewsbury""",2
+riverbank-bakery.example,https://riverbank-bakery.example/,Riverbank Bakery,Powered by Northstar Site Engine | Website by Northstar Web Studio,Shrewsbury,01743 | Shrewsbury,"depth:all site:uk ""Powered by Northstar Site Engine"" ""01743"" | depth:all site:uk ""Website by Northstar Web Studio"" ""01743"" | depth:all site:uk ""Website by Northstar Web Studio"" ""Shrewsbury""",3

@@ -1,0 +1,8 @@
+query,url,title
+"depth:all site:uk ""Website by Northstar Web Studio"" ""Shrewsbury""","https://www.riverbank-bakery.example/","Riverbank Bakery"
+"depth:all site:uk ""Website by Northstar Web Studio"" ""Shrewsbury""","https://flower-shop.example/offers/?utm_source=search","Town Centre Florist"
+"depth:all site:uk ""Website by Northstar Web Studio"" ""01743""","http://riverbank-bakery.example/menu","Riverbank Bakery - menu"
+"depth:all site:uk ""Website by Northstar Web Studio"" ""01743""","ftp://no-website.example/file","Invalid search result"
+"depth:all site:uk ""Website by Northstar Web Studio"" ""SY1""","https://www.flower-shop.example/about#team","Town Centre Florist - about"
+"depth:all site:uk ""Powered by Northstar Site Engine"" ""01743""","https://riverbank-bakery.example/contact/","Riverbank Bakery - contact"
+"depth:all site:uk ""Powered by Northstar Site Engine"" ""SY2""","https://cobalt-dental.example/contact","Cobalt Dental"

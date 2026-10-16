@@ -1,22 +1,40 @@
 {
-  "Built by DemoWeb|Eastmere": [
+  "Website by Northstar Web Studio|Shrewsbury": [
     {
-      "url": "https://www.bakery.example/",
-      "title": "Fictional bakery"
+      "url": "https://www.riverbank-bakery.example/",
+      "title": "Riverbank Bakery"
     },
     {
-      "url": "https://studio.example/catalog/?ref=1",
-      "title": "Fictional studio"
+      "url": "https://flower-shop.example/offers/?utm_source=search",
+      "title": "Town Centre Florist"
     }
   ],
-  "Built by DemoWeb|01234": [
+  "Website by Northstar Web Studio|01743": [
     {
-      "url": "http://bakery.example",
-      "title": "Duplicate"
+      "url": "http://riverbank-bakery.example/menu",
+      "title": "Riverbank Bakery - menu"
     },
     {
-      "url": "ftp://invalid.example",
-      "title": "Invalid scheme"
+      "url": "ftp://no-website.example/file",
+      "title": "Invalid search result"
+    }
+  ],
+  "Website by Northstar Web Studio|SY1": [
+    {
+      "url": "https://www.flower-shop.example/about#team",
+      "title": "Town Centre Florist - about"
+    }
+  ],
+  "Powered by Northstar Site Engine|01743": [
+    {
+      "url": "https://riverbank-bakery.example/contact/",
+      "title": "Riverbank Bakery - contact"
+    }
+  ],
+  "Powered by Northstar Site Engine|SY2": [
+    {
+      "url": "https://cobalt-dental.example/contact",
+      "title": "Cobalt Dental"
     }
   ]
 }
