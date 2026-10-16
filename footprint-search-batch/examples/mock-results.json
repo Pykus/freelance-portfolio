@@ -1,0 +1,22 @@
+{
+  "Built by DemoWeb|Eastmere": [
+    {
+      "url": "https://www.bakery.example/",
+      "title": "Fictional bakery"
+    },
+    {
+      "url": "https://studio.example/catalog/?ref=1",
+      "title": "Fictional studio"
+    }
+  ],
+  "Built by DemoWeb|01234": [
+    {
+      "url": "http://bakery.example",
+      "title": "Duplicate"
+    },
+    {
+      "url": "ftp://invalid.example",
+      "title": "Invalid scheme"
+    }
+  ]
+}
