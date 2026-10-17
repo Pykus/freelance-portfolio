@@ -1,0 +1,9 @@
+source,target
+https://old.example/about,https://new.example/about
+https://old.example/contact,https://new.example/contact
+https://old.example/pricing,https://old.example/plans
+https://old.example/plans,https://new.example/plans
+https://old.example/blog,https://old.example/news
+https://old.example/news,https://old.example/blog
+https://old.example/faq,https://old.example/faq
+https://old.example/obsolete,https://new.example/obsolete
