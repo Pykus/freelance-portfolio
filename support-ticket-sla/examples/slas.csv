@@ -1,0 +1,5 @@
+priority,reply_within_hours
+urgent,1
+high,2
+normal,8
+low,24
