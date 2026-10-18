@@ -27,4 +27,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | [Backup Manifest Integrity Checker](backup-manifest-integrity/) | Create and verify portable SHA-256 inventories of offline file deliveries, with documented change reports and regression tests | Python standard library |
 
+| [Walk-Forward Demand Forecast Backtest](time-series-backtest-audit/) | Compare leakage-aware chronological folds, naive and seasonal baselines, and per-fold forecast errors | Python standard library |
+
 Each project includes setup instructions, sample inputs, test commands and limitations.
