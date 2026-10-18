@@ -25,4 +25,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 | [Website Redirect Map Audit](redirect-map-audit/) | Check website migration plans for missing redirects, chains, loops and conflicting rules; export a review list with 16 tests | Python standard library |
 | [Helpdesk First-Response SLA Audit](support-ticket-sla/) | Check ticket response deadlines across timezones, flag overdue and missing responses, and export reports with 20 tests | Python standard library |
 
+| [Backup Manifest Integrity Checker](backup-manifest-integrity/) | Create and verify portable SHA-256 inventories of offline file deliveries, with documented change reports and regression tests | Python standard library |
+
 Each project includes setup instructions, sample inputs, test commands and limitations.
