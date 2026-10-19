@@ -1,0 +1,6 @@
+sku,currency,unit_cost,retail_price
+SKU-100,USD,10.00,15.00
+SKU-200,USD,25.00,40.00
+SKU-300,USD,5.00,8.00
+SKU-400,USD,0.00,10.00
+SKU-500,USD,2.00,3.00
