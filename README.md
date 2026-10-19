@@ -30,5 +30,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 | [Walk-Forward Demand Forecast Backtest](time-series-backtest-audit/) | Compare leakage-aware chronological folds, naive and seasonal baselines, and per-fold forecast errors | Python standard library |
 
 | [Supplier Price and Margin Audit](supplier-price-audit/) | Compare monthly supplier costs, flag margin erosion, currency changes and discontinued products with exact-decimal calculations and 21 regression tests | Python standard library |
+| [Marketplace Payout Reconciliation](marketplace-payout-reconciliation/) | Reconcile fictional order amounts with per-order marketplace payouts; flag missing records, mismatches, currencies, and duplicates using exact decimal arithmetic and 22 tests | Python standard library |
 
 Each project includes setup instructions, sample inputs, test commands and limitations.
