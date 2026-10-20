@@ -1,0 +1,7 @@
+key,text
+welcome,"Welcome, {user}!"
+cart,"You have {count} items"
+reset,Reset your password
+checkout,"Finish your order of {count} items"
+faq,Frequently asked questions
+status,"Current status: {state}"

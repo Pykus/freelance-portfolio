@@ -1,0 +1,7 @@
+key,text
+welcome,"¡Bienvenido, {user}!"
+cart,"Tienes {count} artículos"
+reset,
+checkout,"Finaliza tu pedido de {total} artículos"
+extra,"Más información"
+status,"Estado: {state"

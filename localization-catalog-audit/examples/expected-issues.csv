@@ -1,0 +1,6 @@
+locale,key,issue,source,translation,details
+es,checkout,placeholder_mismatch,Finish your order of {count} items,Finaliza tu pedido de {total} artículos,Expected placeholders {'count': 1}; found {'total': 1}
+es,extra,unexpected_key,,Más información,Target catalog has no matching source entry
+es,faq,missing_key,Frequently asked questions,,No target-language entry for this source key
+es,reset,empty_translation,Reset your password,,Translation is blank
+es,status,invalid_format,Current status: {state},Estado: {state,expected '}' before end of string
