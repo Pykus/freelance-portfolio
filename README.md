@@ -24,5 +24,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 | [Supplier Price and Margin Audit](supplier-price-audit/) | Audit supplier margins |
 | [Marketplace Payout Reconciliation](marketplace-payout-reconciliation/) | Reconcile marketplace payouts |
 | [Payroll CSV Quality Auditor](payroll-csv-audit/) | Validate payroll CSV exports |
+| [Booking Conflict Auditor](booking-conflict-audit/) | Audit overlapping resource bookings across time zones |
 
 Each project includes setup instructions, sample inputs, test commands and limitations.
