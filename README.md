@@ -26,4 +26,6 @@ Practical, small-scale software demonstrations inspired by common freelance task
 | [Payroll CSV Quality Auditor](payroll-csv-audit/) | Validate payroll CSV exports |
 | [Booking Conflict Auditor](booking-conflict-audit/) | Audit overlapping resource bookings across time zones |
 
+| [Contract Renewal Notice Auditor](contract-renewal-audit/) | Track supplier renewals and notice deadlines |
+
 Each project includes setup instructions, sample inputs, test commands and limitations.
