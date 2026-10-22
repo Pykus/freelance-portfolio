@@ -1,0 +1,10 @@
+response_id,region,service_score,recommend
+r001,North,5,Yes
+r002,South,4,Yes
+r003,North,3,No
+r004,South,5,
+r005,North,2,Maybe
+r006,North,5,Yes
+r006,North,1,No
+r007,West,3,Yes
+r008,South,4,No

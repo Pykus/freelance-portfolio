@@ -1,0 +1,9 @@
+{
+  "id_column": "response_id",
+  "segment_column": "region",
+  "segments": ["North", "South"],
+  "questions": {
+    "service_score": {"choices": ["1", "2", "3", "4", "5"], "missing": ["", "NA"]},
+    "recommend": {"choices": ["Yes", "No"], "missing": ["", "NA"]}
+  }
+}
