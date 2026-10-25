@@ -6,6 +6,7 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | Project | Purpose |
 | :--- | :--- |
+| [Training Completion Eligibility Audit](training-completion-audit/) | Validate attendance, quiz thresholds, and completion records |
 | [Batch Job Run Reconciliation](job-run-reconciliation/) | Compare scheduled jobs with actual runs and detect failures |
 | [Purchase Request Approval Audit](purchase-approval-audit/) | Check approval authority and overdue requests |
 | [Campaign Budget Pacing Audit](campaign-budget-pacing/) | Audit daily and cumulative ad spend with CSV reports |
