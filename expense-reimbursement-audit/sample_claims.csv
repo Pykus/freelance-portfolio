@@ -1,0 +1,6 @@
+claim_id,employee_id,receipt_id,date,category,currency,amount
+C-001,E-001,R-101,2026-10-01,meals,USD,24.50
+C-002,E-002,R-102,2026-10-02,travel,USD,245.00
+C-003,E-003,R-103,2026-10-03,supplies,USD,89.99
+C-004,E-004,R-102,2026-10-04,meals,USD,12.50
+C-005,E-005,R-105,2026-10-05,meals,EUR,18.00

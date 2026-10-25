@@ -6,6 +6,7 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | Project | Purpose |
 | :--- | :--- |
+| [Expense Reimbursement Policy Audit](expense-reimbursement-audit/) | Check duplicates, policy caps, and CSV data quality |
 | [CSV Data Cleaner](csv-data-cleaner/) | Clean and deduplicate CSV |
 | [JSON Orders → SQLite ETL](json-sqlite-etl/) | JSON-to-SQLite ETL |
 | [Inventory REST API Synchronizer](api-inventory-sync/) | Sync inventory via REST API |
