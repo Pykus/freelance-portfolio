@@ -6,6 +6,7 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | Project | Purpose |
 | :--- | :--- |
+| [Shipment Deadline Audit](shipment-deadline-audit/) | Identify overdue and inconsistent shipment records |
 | [Training Completion Eligibility Audit](training-completion-audit/) | Validate attendance, quiz thresholds, and completion records |
 | [Batch Job Run Reconciliation](job-run-reconciliation/) | Compare scheduled jobs with actual runs and detect failures |
 | [Purchase Request Approval Audit](purchase-approval-audit/) | Check approval authority and overdue requests |
