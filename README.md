@@ -6,6 +6,7 @@ Practical, small-scale software demonstrations inspired by common freelance task
 
 | Project | Purpose |
 | :--- | :--- |
+| [Purchase Request Approval Audit](purchase-approval-audit/) | Check approval authority and overdue requests |
 | [Campaign Budget Pacing Audit](campaign-budget-pacing/) | Audit daily and cumulative ad spend with CSV reports |
 | [Expense Reimbursement Policy Audit](expense-reimbursement-audit/) | Check duplicates, policy caps, and CSV data quality |
 | [CSV Data Cleaner](csv-data-cleaner/) | Clean and deduplicate CSV |

@@ -1,0 +1,6 @@
+request_id,submitted_date,amount_usd,status,approver_role
+PR-001,2026-10-19,300.00,approved,staff
+PR-002,2026-10-20,800.00,approved,staff
+PR-003,2026-10-01,9000.00,pending,none
+PR-004,2026-10-23,5200.00,approved,director
+PR-005,2026-10-21,450.00,rejected,none
