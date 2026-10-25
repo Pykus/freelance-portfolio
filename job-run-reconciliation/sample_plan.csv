@@ -1,0 +1,5 @@
+slot_id,scheduled_at
+batch-alpha,2026-10-24T10:00:00+02:00
+batch-beta,2026-10-24T11:00:00+02:00
+batch-gamma,2026-10-24T12:00:00+02:00
+batch-delta,2026-10-24T13:00:00+02:00
